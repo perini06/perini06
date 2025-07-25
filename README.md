@@ -7,19 +7,26 @@
    - 🦅 Inglês Básico e Técnico.
 
 📚  <strong>Estudando para me tornar um Desenvolvedor Full-stack
-
-## <div align="center">Stacks</div>
-<div align="center">
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<!--
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <br>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=git" alt="Git" width="40"/>
+-->
+
+<!-- Minhas Stacks -->
+<!-- Titulo -->
+<h3 align="center">
+ <img src="./assets/icons/stack-white.svg" width=17>
+ Stacks 
+ <img src="./assets/icons/stack-black.svg" width=20>
+</h3>
+
+<br/>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,vite,react,vue" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,supabase,angular,git" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,notion" /><br>
 </div>
 
 ---

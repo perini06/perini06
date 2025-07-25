@@ -1,6 +1,6 @@
-Ryan Simon Perini, 21 anos.
- - Formado em Ciência da Computação.
- - Técnico em Informática e Analista em Desenvolvimento de Sistemas.
+ 🐣 | 2003
+ - Bacharelado em Ciência da Computação.
+ - Técnico em Informática e Análise e Desenvolvimento de Sistemas.
  - Pós-Graduação em Engenharia de Software.
 
 

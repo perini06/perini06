@@ -1,4 +1,8 @@
-Me chamo **Ryan Perini**, tenho 21 anos e moro em **Manaus, Amazonas**. 🌳🏹🌴.
+Ryan Simon Perini, 21 anos.
+ - Formado em Ciência da Computação.
+ - Técnico em Informática e Analista em Desenvolvimento de Sistemas.
+ - Pós-Graduação em Engenharia de Software.
+
 
 Tenho o sonho de me tornar um **desenvolvedor full-stack**, sou apaixonado por **ensinar** e por **criar soluções úteis** que resolvam problemas reais.
 
